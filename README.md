@@ -1,4 +1,3 @@
-# Grocery Delivery Management System
 
 ##  Project Overview
 The Grocery Delivery Management System is a web-based platform designed to streamline the grocery shopping experience for customers, store managers, and delivery drivers. It addresses common challenges such as delayed deliveries, inventory inaccuracies, and inefficient communication by providing a reliable and user-friendly interface.
